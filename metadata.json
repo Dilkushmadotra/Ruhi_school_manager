@@ -1,0 +1,6 @@
+{
+  "name": "Ruhi School Manager",
+  "description": "Ruhi School Manager is a modern, responsive, and beautiful school ERP platform marketing website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
