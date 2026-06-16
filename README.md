@@ -1,490 +1,370 @@
-# 🎓 Ruhi School Manager
+# 🌐 Ruhi School Manager Website
 
-A Complete Multi-School ERP Management System built for modern schools to manage students, staff, attendance, homework, exams, timetables, reports, and school operations from a single platform.
-
----
-
-## 🚀 Overview
-
-Ruhi School Manager is a production-ready School ERP designed for:
-
-- Individual Schools
-- School Chains
-- Educational Institutions
-- Coaching Centers
-- Academies
-
-The platform provides separate school-wise data management while maintaining centralized control through a Platform Super Admin.
+A simple, attractive, and responsive startup website for **Ruhi School Manager**, a modern School ERP platform designed to help schools manage students, teachers, attendance, homework, exams, timetables, notices, and reports.
 
 ---
 
-## ✨ Key Features
+## 🚀 Website Overview
 
-### 🏫 Multi-School Management
+This website is built to promote the Ruhi School Manager ERP product and help schools request demos or contact the founder.
 
-- Create Multiple Schools
-- Separate Data for Every School
-- School-Wise Dashboards
-- School Activation / Deactivation
-- School Logo Management
+The website is simple, professional, mobile-friendly, and ready for real-world publishing.
 
 ---
 
-### 👨‍💼 Platform Super Admin
+## 🏫 About Ruhi School Manager
 
-- Manage Schools
-- Create School Admins
-- Monitor All Schools
-- View School Statistics
-- View School Staff
-- View Reports
+**Ruhi School Manager** is a smart school management platform for schools, academies, coaching centers, and multi-school organizations.
 
----
+It helps manage:
 
-### 🏢 School Admin
-
-- Manage School Information
-- Create Staff Accounts
-- Manage Classes
-- Manage Students
-- Manage Subjects
-- Manage Notices
-- Generate Reports
-
----
-
-### 👨‍🏫 Staff Hierarchy System
-
-School Admin can create:
-
-- Principal
-- Director
-- Vice Principal
-- Exam Coordinator
-- Class Teacher
-- Teacher
-
-All staff login through Teacher Login.
-
----
-
-### 🎯 Principal Module
-
-- View All Students
-- View All Teachers
-- View Attendance
-- View Marks
-- Suspend Students
-- Restore Students
-- Schedule Tests
-- Manage Complaints
-- View Analytics
-
----
-
-### 📊 Director Module
-
-- School Analytics
-- Student Reports
-- Teacher Reports
-- Attendance Reports
-- Academic Performance Reports
-
----
-
-### 📝 Vice Principal Module
-
-- Student Monitoring
-- Attendance Monitoring
-- Report Viewing
-- Suspension Requests
-- Approval Workflow
-
----
-
-### 📚 Exam Coordinator Module
-
-- Create Exams
-- Create Class Tests
-- Manage Exam Timetable
-- Manage School Timetable
-- Verify Marks
-- Publish Results
-- Generate Report Cards
-
----
-
-### 🧑‍🏫 Class Teacher Module
-
-- Manage Assigned Class
-- Add/Edit Students
-- Mark Attendance
-- Upload Homework
-- Upload Marks
-- Create Complaints
-
----
-
-### 👨‍🏫 Teacher Module
-
-- Manage Assigned Subjects
-- Upload Subject Marks
-- Create Assignments
-- View Timetable
-- Create Complaints
-
----
-
-### 🎒 Student Module
-
-- View Attendance
-- View Homework
-- View Timetable
-- View Exam Schedule
-- View Results
-- View Notices
-- View Performance
-
----
-
-## 📖 Class-Based Student Management
-
-Students are managed inside classes.
-
-Flow:
-
-School → Class → Student
-
-No direct student creation allowed.
-
----
-
-## 📅 Timetable Management
-
-Only Exam Coordinator can manage:
-
-- Class Timetable
-- Teacher Timetable
-- Subject Timetable
-
-Features:
-
-- Weekly Timetable Builder
-- Conflict Detection
-- PDF Export
-- Teacher Workload Analysis
-
----
-
-## 📑 Exam & Marks Hub
-
-### School Admin
-
-- Create Exams
-- Schedule Exams
-
-### Teachers
-
-- Upload Subject Marks
-
-### Exam Coordinator
-
-- Verify Marks
-- Lock Marks
-- Publish Results
-
-### Students
-
-- View Own Results Only
-
----
-
-## 📋 Attendance System
-
-### Class Teacher
-
-- Daily Attendance
-
-### Principal
-
-- Attendance Override
-- Attendance Correction
-
-Reports:
-
-- Daily
-- Weekly
-- Monthly
-
----
-
-## 📚 Homework System
-
-Only Class Teacher can:
-
-- Upload Homework
-- Edit Homework
-- Delete Homework
-
-Students:
-
-- View Homework
-
-No online homework submission.
-
----
-
-## 📢 Notice Management
-
-Notice Types:
-
-- General
-- Holiday
-- Exam
-- Emergency
-
-Workflow:
-
-Teacher → Principal Approval → Publish
-
----
-
-## ⚠ Complaint Management
-
-Create complaints for:
-
-- Discipline
-- Behaviour
-- Homework
+- Students
+- Teachers
+- Classes
 - Attendance
-- Academic Issues
-
-Visible to:
-
-- Principal
-- School Admin
-- Related Teacher
-
----
-
-## 📈 Reports & Analytics
-
-Generate:
-
-- Attendance Reports
-- Student Reports
-- Teacher Reports
-- Exam Reports
-- Result Reports
-- School Summary Reports
-
-Export:
-
-- PDF
-- Excel
-
----
-
-## 🔔 Notifications
-
-Firebase Cloud Messaging (FCM)
-
-Notifications:
-
-- Attendance Updates
-- Homework Updates
-- Exam Notifications
-- Result Published
-- Notices
-
----
-
-## 🖼 School Logo Management
-
-Upload School Logo:
-
-- Camera
-- Gallery
-
-Display On:
-
-- Dashboard
+- Homework
+- Exams
+- Marks
+- Timetable
 - Notices
 - Reports
-- Marksheets
-- ID Cards
+- Multi-school operations
 
 ---
 
-## 🔐 Security Features
+## 👨‍💻 Founder
 
-- JWT Authentication
-- bcrypt Password Hashing
-- Role-Based Access Control
-- School-Wise Data Isolation
-- Secure APIs
-- Session Management
-- Audit Logs
+**Dilkush Ror**  
+Founder & Developer
+
+📧 Email: **ror28dilkush@gmail.com**  
+📞 Phone / WhatsApp: **+91 9588732288**
 
 ---
 
-## ⚙ Tech Stack
+## ✨ Website Features
+
+- Modern homepage
+- Attractive hero section
+- Product feature cards
+- About section
+- Founder section
+- Contact page
+- Request demo page
+- Testimonials section
+- FAQ section
+- Floating WhatsApp button
+- Floating call button
+- Responsive mobile design
+- Contact form
+- Demo request form
+- MongoDB form storage
+- SEO-friendly structure
+
+---
+
+## 📄 Website Pages
+
+1. Home
+2. Features
+3. About Us
+4. Contact Us
+5. Request Demo
+6. Testimonials
+7. FAQ
+
+---
+
+## 🎨 Design Style
+
+- Simple and clean UI
+- Light theme
+- Blue and white color combination
+- Modern cards
+- Smooth layout
+- Mobile responsive
+- Professional startup look
+- Easy navigation
+
+---
+
+## ⚙️ Tech Stack
 
 ### Frontend
 
 - React.js
 - React Router DOM
 - React Bootstrap
+- Bootstrap Icons
 - Axios
-- Context API / Redux
 
 ### Backend
 
 - Node.js
 - Express.js
-
-### Database
-
-- MongoDB Atlas
-- MongoDB Compass
-
-### Storage
-
-- Cloudinary
-
-### Notifications
-
-- Firebase Cloud Messaging
-
-### Authentication
-
-- JWT
-- bcrypt
+- MongoDB
+- Mongoose
+- dotenv
+- CORS
 
 ---
 
 ## 📂 Project Structure
 
 ```bash
-frontend/
+ruhi-school-manager-website/
 │
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── dashboards/
-│   ├── auth/
-│   ├── services/
+├── frontend/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── App.jsx
+│   │   └── main.jsx
+│   └── package.json
+│
+├── backend/
+│   ├── config/
+│   ├── models/
 │   ├── routes/
-│   ├── context/
-│   ├── utils/
-│   └── assets/
+│   ├── controllers/
+│   ├── server.js
+│   └── package.json
 │
-└── App.jsx
-
-backend/
-│
-├── models/
-├── routes/
-├── controllers/
-├── middleware/
-├── config/
-├── services/
-├── utils/
-└── server.js
+└── README.md
 ```
 
 ---
 
-## 🛠 Installation
+## 🛠️ Installation
 
-### Clone Repository
+### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ruhi-school-manager.git
-
-cd ruhi-school-manager
+git clone https://github.com/yourusername/ruhi-school-manager-website.git
+cd ruhi-school-manager-website
 ```
 
-### Backend Setup
+---
+
+## 🖥️ Backend Setup
 
 ```bash
 cd backend
-
 npm install
-
 npm run dev
 ```
 
-### Frontend Setup
+Backend runs on:
+
+```bash
+http://localhost:5000
+```
+
+---
+
+## 💻 Frontend Setup
 
 ```bash
 cd frontend
-
 npm install
+npm run dev
+```
 
-npm start
+Frontend runs on:
+
+```bash
+http://localhost:5173
 ```
 
 ---
 
 ## 🌍 Environment Variables
 
-Create `.env`
+Create a `.env` file inside the backend folder:
 
 ```env
 PORT=5000
+MONGO_URI=mongodb://127.0.0.1:27017/ruhi_school_website
+```
 
-MONGO_URI=
+For production, use MongoDB Atlas:
 
-JWT_SECRET=
-
-CLOUDINARY_CLOUD_NAME=
-
-CLOUDINARY_API_KEY=
-
-CLOUDINARY_API_SECRET=
-
-FCM_SERVER_KEY=
+```env
+MONGO_URI=your_mongodb_atlas_connection_string
 ```
 
 ---
 
-## 📱 Login Roles
+## 📩 Contact Form Fields
 
-- Platform Super Admin
-- School Admin
-- Principal
-- Director
-- Vice Principal
-- Exam Coordinator
-- Class Teacher
-- Teacher
-- Student
+The contact form collects:
+
+- Name
+- School Name
+- Mobile Number
+- Email
+- Message
 
 ---
 
-## 🎯 Future Roadmap
+## 📅 Demo Request Form Fields
 
-- Parent Portal
-- Transport Management
-- Hostel Management
-- Library Management
-- Payroll Management
-- Online Fee Management
-- AI Reports & Analytics
-- Mobile App (Flutter)
+The demo request form collects:
+
+- Full Name
+- School Name
+- Mobile Number
+- Email
+- Number of Students
+- City
+- Preferred Demo Date
+- Message
+
+---
+
+## 🔗 API Routes
+
+### Contact
+
+```bash
+POST /api/contact
+GET /api/contact
+```
+
+### Demo Request
+
+```bash
+POST /api/demo
+GET /api/demo
+```
+
+---
+
+## 📱 Floating Buttons
+
+The website includes:
+
+- WhatsApp button
+- Call button
+- Back to top button
+
+Default WhatsApp number:
+
+```bash
++91 9588732288
+```
+
+---
+
+## 🔎 SEO Details
+
+### Meta Title
+
+```text
+Ruhi School Manager | School ERP Software
+```
+
+### Meta Description
+
+```text
+Ruhi School Manager is a modern school ERP platform for managing students, teachers, attendance, homework, exams, timetable, and reports.
+```
+
+### Keywords
+
+- School ERP
+- School Management Software
+- School Management App
+- Attendance Management System
+- Exam Management System
+- Student Management System
+
+---
+
+## 🚀 Deployment
+
+### Frontend Deployment
+
+Recommended platforms:
+
+- Vercel
+- Netlify
+
+Build command:
+
+```bash
+npm run build
+```
+
+Output folder:
+
+```bash
+dist
+```
+
+---
+
+### Backend Deployment
+
+Recommended platforms:
+
+- Render
+- Railway
+- Cyclic
+
+Start command:
+
+```bash
+npm start
+```
+
+---
+
+### Database
+
+Use MongoDB Atlas for production.
+
+---
+
+## ✅ Production Checklist
+
+Before publishing:
+
+- Update website logo
+- Update favicon
+- Add real product screenshots
+- Add privacy policy
+- Add terms page
+- Connect MongoDB Atlas
+- Test contact form
+- Test demo request form
+- Test mobile responsiveness
+- Add custom domain
+- Enable HTTPS
+
+---
+
+## 📌 Future Improvements
+
+- Blog page
+- Admin panel
+- Dynamic pricing
+- Newsletter
+- Testimonials management
+- SEO dashboard
+- Analytics integration
 
 ---
 
 ## 👨‍💻 Developer
 
-### Dilkush Ror
+**Dilkush Ror**  
+Founder & Developer of Ruhi School Manager
 
-Founder & Developer
-
-📧 Email: ror28dilkush@gmail.com
-
-📞 Phone: +91 9588732288
+📧 **ror28dilkush@gmail.com**  
+📞 **+91 9588732288**
 
 ---
 
@@ -493,5 +373,3 @@ Founder & Developer
 Copyright © 2026 Ruhi School Manager.
 
 All Rights Reserved.
-
-This software is proprietary and intended for educational institutions using Ruhi School Manager.
